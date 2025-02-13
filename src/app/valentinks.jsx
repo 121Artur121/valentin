@@ -21,7 +21,7 @@ export default function Valentinks() {
             transition: 'top 0.3s ease', // smooth transition for card movement
           }}>
           <div className={styles.text}>З днем святого Валентина!</div>
-          <div className={styles.text1}>Моя nasti_a.a.a.a.a </div>
+          <div className={styles.text1}>Моя Киця</div>
           <div className={styles.blockHeart}>
             <div className={styles.heart}></div>
             <div className={styles.heart}></div>

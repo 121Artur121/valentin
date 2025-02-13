@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <div className={styles.block}>
-      <div onClick={() => setIsValet(!isValet)} className={styles.text2}>Від zxrtw_1<div className={styles.heart1}></div></div>
+      <div onClick={() => setIsValet(!isValet)} className={styles.text2}>Нажми на мене<div className={styles.heart1}></div></div>
 
       {isValet ? (<Valentinks />) : null}
 
