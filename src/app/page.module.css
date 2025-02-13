@@ -22,7 +22,7 @@
 }
 
 .text2 {
-  color: #d62828;
+  color: #cd5555;
   font-size: 22px;
   font-family: 'Pacifico', cursive;
   line-height: 1;
@@ -71,7 +71,7 @@
 }
 
 .heart1 {
-  background-color: #d62828;
+  background-color: #cd5555;
   display: inline-block;
   height: 15px;
   margin: 0 10px;
@@ -85,7 +85,7 @@
 .heart1:before,
 .heart1:after {
   content: "";
-  background-color: #d62828;
+  background-color: #cd5555;
   border-radius: 50%;
   height: 15px;
   position: absolute;
@@ -103,7 +103,7 @@
 }
 
 .heart2 {
-  background-color: #d62828;
+  background-color: #cd5555;
   display: inline-block;
   height: 60px;
   margin: 0 10px;
@@ -117,7 +117,7 @@
 .heart2:before,
 .heart2:after {
   content: "";
-  background-color: #d62828;
+  background-color: #cd5555;
   border-radius: 50%;
   height: 60px;
   position: absolute;
